@@ -2,3 +2,10 @@ TEAM NOTES
 Repository created for the
 GitHublab.
 RemoteeditcreatedfromGitHub
+
+
+RANCHWORKFLOW
+1. Updatemain.
+2. Createafeaturebranch.
+3. Commitfocusedchanges.
+4. OpenaPullRequest.
